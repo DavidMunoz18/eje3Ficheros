@@ -1,0 +1,14 @@
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\bin\Debug\net6.0\pruebaTryCatch.exe
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\bin\Debug\net6.0\pruebaTryCatch.deps.json
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\bin\Debug\net6.0\pruebaTryCatch.runtimeconfig.json
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\bin\Debug\net6.0\pruebaTryCatch.dll
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\bin\Debug\net6.0\pruebaTryCatch.pdb
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\obj\Debug\net6.0\pruebaTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\obj\Debug\net6.0\pruebaTryCatch.AssemblyInfoInputs.cache
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\obj\Debug\net6.0\pruebaTryCatch.AssemblyInfo.cs
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\obj\Debug\net6.0\pruebaTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\obj\Debug\net6.0\pruebaTryCatch.dll
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\obj\Debug\net6.0\refint\pruebaTryCatch.dll
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\obj\Debug\net6.0\pruebaTryCatch.pdb
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\obj\Debug\net6.0\pruebaTryCatch.genruntimeconfig.cache
+C:\Users\csi23-dmunnco\source\repos\pruebaTryCatch\obj\Debug\net6.0\ref\pruebaTryCatch.dll
